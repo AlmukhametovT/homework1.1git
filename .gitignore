@@ -1,0 +1,8 @@
+# игнор каталога tmp в корне папки 1.2. Site For Import
+/tmp/
+# игнор файлов, заканчивающихся суффиксами _old, _backup
+*_old.*
+*_backup.*
+# игнорированы файлы Thumbs.db и .DS_Store
+Thumbs.db
+.DS_Store
